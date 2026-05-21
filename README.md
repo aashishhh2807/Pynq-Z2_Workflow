@@ -243,7 +243,3 @@ print("FPGA Programmed Successfully")
 ```
 
 ---
-
-# Contributors
-- Sree Balaji P
-- Sriram J
